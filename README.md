@@ -37,7 +37,7 @@ Proyecto académico de base de datos relacional utilizando **MySQL Workbench**, 
 
 ## 📊 Captura de visualización (Power BI)
 
-> `grafico_ventas_por_sabor.png`
+> ![Visualización de ventas por sabor](grafico_ventas_por_sabor.png)
 
 ---
 
